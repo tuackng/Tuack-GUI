@@ -65,7 +65,7 @@ def main() -> None:
             write_binary(bin_dir / f"typst-{target}", data.read())
 
     # ---- tuack-ng（zip 内含二进制 + assets/）----
-    url = f"https://github.com/tuack-ng/tuack-ng/releases/download/{TUACK_VERSION}/{tuack_asset}.zip"
+    url = f"https://github.com/tuackng/tuack-ng/releases/download/{TUACK_VERSION}/{tuack_asset}.zip"
     with zipfile.ZipFile(io.BytesIO(download(url))) as z:
         for name in z.namelist():
             base = os.path.basename(name.rstrip("/"))
