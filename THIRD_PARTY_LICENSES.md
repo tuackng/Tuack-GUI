@@ -14,7 +14,7 @@ Typst 以 Apache License 2.0 许可发布。分发本组件需随附完整许可
 
 ## Tuack-NG
 
-- 项目：<https://github.com/tuack-ng/tuack-ng>
+- 项目：<https://github.com/tuackng/tuack-ng>
 - 用途：核心出题命令行套件（工程生成、测试、渲染、数据生成等）
 - 许可证：[GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0.html)（或更高版本）
 
