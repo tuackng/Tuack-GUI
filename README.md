@@ -4,19 +4,19 @@
 
 # Tuack-GUI
 
-一款美观、跨平台的 [Tuack-NG](https://github.com/tuack-ng/tuack-ng) 图形化前端
+一款美观、跨平台的 [Tuack-NG](https://github.com/tuackng/tuack-ng) 图形化前端
 
-[![Stars](https://img.shields.io/github/stars/Qaaxaap/tuack-gui?label=Stars)](https://github.com/Qaaxaap/tuack-gui)
-[![正式版 Release](https://img.shields.io/github/v/release/Qaaxaap/tuack-gui?style=flat-square&color=%233fb950&label=正式版)](https://github.com/Qaaxaap/tuack-gui/releases/latest)
-[![测试版 Release](https://img.shields.io/github/v/release/Qaaxaap/tuack-gui?include_prereleases&style=flat-square&label=测试版)](https://github.com/Qaaxaap/tuack-gui/releases/)
-[![License](https://img.shields.io/github/license/Qaaxaap/tuack-gui?style=flat-square&color=3cb371)](https://github.com/Qaaxaap/tuack-gui/blob/main/LICENSE)
-[![GitHub Repo Languages](https://img.shields.io/github/languages/top/Qaaxaap/tuack-gui?style=flat-square)](https://github.com/Qaaxaap/tuack-gui)
+[![Stars](https://img.shields.io/github/stars/tuackng/Tuack-GUI?label=Stars)](https://github.com/tuackng/Tuack-GUI)
+[![正式版 Release](https://img.shields.io/github/v/release/tuackng/Tuack-GUI?style=flat-square&color=%233fb950&label=正式版)](https://github.com/tuackng/Tuack-GUI/releases/latest)
+[![测试版 Release](https://img.shields.io/github/v/release/tuackng/Tuack-GUI?include_prereleases&style=flat-square&label=测试版)](https://github.com/tuackng/Tuack-GUI/releases/)
+[![License](https://img.shields.io/github/license/tuackng/Tuack-GUI?style=flat-square&color=3cb371)](https://github.com/tuackng/Tuack-GUI/blob/main/LICENSE)
+[![GitHub Repo Languages](https://img.shields.io/github/languages/top/tuackng/Tuack-GUI?style=flat-square)](https://github.com/tuackng/Tuack-GUI)
 
 </div>
 
 ## 简介
 
-[Tuack-NG](https://github.com/tuack-ng/tuack-ng) 是一套用于辅助 OI/ACM 竞赛题目开发的命令行套件，但因其是 CLI 工具，上手门槛较高。
+[Tuack-NG](https://github.com/tuackng/tuack-ng) 是一套用于辅助 OI/ACM 竞赛题目开发的命令行套件，但因其是 CLI 工具，上手门槛较高。
 
 Tuack-GUI 旨在解决这一问题：**为 Tuack-NG 提供一个美观、跨平台的图形化界面**，让使用者无需记忆和输入命令，即可完成题目工程的配置与各项操作，扩大用户群体、降低上手难度。
 
@@ -98,11 +98,11 @@ pnpm tauri dev
 
 ## 下载
 
-~敬请期待。届时将通过~   请通过 [GitHub Releases](https://github.com/Qaaxaap/tuack-gui/releases/) 下载所需平台版本。
+~敬请期待。届时将通过~   请通过 [GitHub Releases](https://github.com/tuackng/Tuack-GUI/releases/) 下载所需平台版本。
 
 ## 致谢
 
-- [Tuack-NG](https://github.com/tuack-ng/tuack-ng) —— 本项目的后端核心，感谢 [Pulsar](https://github.com/Pulsar33550336) 的辛勤维护。
+- [Tuack-NG](https://github.com/tuackng/tuack-ng) —— 本项目的后端核心，感谢 [Pulsar](https://github.com/Pulsar33550336) 的辛勤维护。
 - [Tuack](https://github.com/mulab11/tuack) —— Tuack-NG 的设计思想来源。
 
 ## 许可证

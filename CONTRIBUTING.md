@@ -1,6 +1,6 @@
 # 向 Tuack-GUI 贡献代码
 
-感谢您为 Tuack-GUI 做出贡献。Tuack-GUI 是 [Tuack-NG](https://github.com/tuack-ng/tuack-ng) 的图形化前端，采用 **Tauri 2 + React + TypeScript** 双栈开发。在贡献前，请务必阅读以下指南。
+感谢您为 Tuack-GUI 做出贡献。Tuack-GUI 是 [Tuack-NG](https://github.com/tuackng/tuack-ng) 的图形化前端，采用 **Tauri 2 + React + TypeScript** 双栈开发。在贡献前，请务必阅读以下指南。
 
 ## 代码结构
 
